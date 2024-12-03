@@ -1,5 +1,4 @@
-# Document-Extraction-from-PDFs
-# Document Extraction from PDFs  
+# Document-Extraction-from-PDFs 
 
 A Python-based project to extract and structure text from PDF documents. This program reads a user-provided PDF file, processes its content, and organizes it into a structured JSON format for better usability and analysis.
 
